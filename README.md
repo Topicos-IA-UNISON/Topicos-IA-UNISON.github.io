@@ -1,4 +1,6 @@
-# Material del curso Tópicos avanzados en Inteligencia Artificial por año lectivo
+# Material del curso
+## [Licenciatura en Ciencias de la Comutación](http://cc.uson.mx), [Unison](https://www.unison.mx)
+### [Julio Waissman Vilanova](http://mat.uson.mx/~juliowaissman/)
 
 Dado que el curso de tópico cambia de un semestre a otro en funcion de los intereses de los estudiantes, existe una página dedicada por cada uno de los semestres en los cuales se ha impartido la materia.
 
